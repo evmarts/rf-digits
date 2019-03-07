@@ -6,7 +6,7 @@ In this project we will attempt to classify handwritten digits using three diffe
 
 The dataset we will be using for this project contains normalized handwritten digits, automatically scanned from envelopes by the U.S. Postal Service. The original scanned digits are binary and of different sizes and orientations; the images have been deslanted and size normalized, resulting in 16 x 16 grayscale images.
 
-![](figs/digits.jpg)
+![](figs/digits.png)
 
 ### decision trees 
 
